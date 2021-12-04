@@ -1,0 +1,15 @@
+Ejercicio 03: Justifica con tus propias palabras porque crees que tu solución al ejercicio 1 y 2
+tiene un costo computacional aceptable, ¿crees que es el menor costo computacional posible?
+¿Por qué? (4)
+
+
+Es aceptable por el hecho de solo utilizar algunas fuciones para encontrar la solucion, sin embargo 
+computacionalmente es un poco alto, pero se ejecuta rapidamente. Es decir que mis algoritmos pueden 
+ser en menos lineas con algunas funciones porpias de Haskell por ejemplo, existe una funcion para sumar todos 
+los elementos de una lista, aun asi yo use una funcion propia que se encarga de eso. 
+
+"¿crees que es el menor costo computacional posible?". En mi opinion si es posible, porque tal vez algunas 
+de mis funciones pueden ser mas concisas todavia y eso haria posible un coste menor, o quizas existan una mejor 
+manera de implemarlos, con un nuevo enfoque o una unica funcion de Haskell propia
+
+
